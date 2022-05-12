@@ -1,24 +1,13 @@
 # fast-typing
+![Alt text](https://github.com/seyitomerballi/fast-typing/tree/master/src/assets/fast-typing.JPG "Örnek Ekran Görüntüsü")
 
-## Project setup
+
+## Projeyi yükle
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile et ve çalıştır
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
