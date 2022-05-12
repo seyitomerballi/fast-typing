@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+![This is an image](https://github.com/seyitomerballi/fast-typing/tree/master/src/assets/fast-typing.JPG)
